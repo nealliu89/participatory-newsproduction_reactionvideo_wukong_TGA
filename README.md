@@ -2,12 +2,12 @@
 YouTube and Bilibili comments and captions scrapy
 This project is designed for academic research on social media news production, so no further conflict of interest or moral conflict exists.
 
-In this project, a total of eight videos were targeted and selected for the research, which will list the link below.
+In this project, a total of eight videos were targeted and selected for the research, which will be listed in the link below.
 YouTube Video ID
-1. id = h-WGw4BypDY ![image](https://github.com/user-attachments/assets/5312deee-a876-4062-9305-755e0166c066)
-2. id = 6lpVzQk7Gpg ![image](https://github.com/user-attachments/assets/5cc07e11-917d-4172-9157-b6156ff3d554)
-3. id = YI1dXSw17Y8 ![image](https://github.com/user-attachments/assets/325d5dbc-6f42-42da-be25-95c58d08949a)
-4. id = mCNKIKRbZqI ![image](https://github.com/user-attachments/assets/fac694be-a36f-4025-b9bc-49a8105ec6f0)
+1. id = h-WGw4BypDY 
+2. id = 6lpVzQk7Gpg 
+3. id = YI1dXSw17Y8 
+4. id = mCNKIKRbZqI 
 
 Bilibili Video Link
 1. https://www.bilibili.com/video/BV15iBuY9E87/?spm_id_from=333.337.search-card.all.click&vd_source=968e8f7a658158cccbab98f802f0ef33
